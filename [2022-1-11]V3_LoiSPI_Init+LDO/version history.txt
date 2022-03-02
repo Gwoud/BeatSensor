@@ -1,0 +1,3 @@
+v0 - thời gian mô phỏng = 1/100 thời gian thực
+v1 - thư viện SPI k mô phỏng được, chạy được trên mạch thực -> tạm tắt SPI_init
+->>>v2 - PW Ctr la input floating thay vì là input pull down
